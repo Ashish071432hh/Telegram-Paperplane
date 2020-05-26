@@ -20,7 +20,7 @@ from userbot.modules.dbhelper import (approval, approve, block_pm, notif_off,
 UNAPPROVED_MSG = (
     "`Bleep blop! This is a bot. Don't fret.\n\n`"
     "`My master hasn't approved you to PM.`"
-    "`Please wait for my master to look in, he mostly approves PMs.\n\n`"
+    "`My Master is offline he will reply you when he will come online.If your messaged for buying edu mail please read the pinned message in the group and wait for his reply.\n\n`"
     "`As far as I know, he doesn't usually approve retards though.`")
 # =================================================================
 
